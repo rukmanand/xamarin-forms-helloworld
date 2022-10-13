@@ -50,7 +50,7 @@ This repository contains Jenkins config with the Xamarin.Forms **HelloWorld** ap
 
 1. Setup Xamarin build environment by installing tools/libs - .Net, Visusla Studio, Mono framework, Nuget, Xamarin profile etc.
 
-2.Build Xamarin IOS as mentioned in Jenkinsfile in the project. 
+2. Build Xamarin IOS as mentioned in Jenkinsfile in the project. 
 
 3. Upload IOS IPA to Nexus.
 

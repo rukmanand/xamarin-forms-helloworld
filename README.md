@@ -6,14 +6,11 @@
 
 This repository contains Jenkins config with the Xamarin.Forms **HelloWorld** app(https://github.com/adityaoberai/xamarin-forms-helloworld) for Android and IOS. This provides basic visibility of CI CD for xamarin forms apps.
 
-<br>
-<br>
-
 ---
 
 ## Prerequisites For This Activity
 
-* Knowledge of **Jenkins** helps
+* Knowledge of **Jenkins**, **Nexus**, **Docker** helps
 
 ---
 
@@ -37,6 +34,8 @@ This repository contains Jenkins config with the Xamarin.Forms **HelloWorld** ap
 
 5. Use custom docker image to connect Jenkins and to build Android Xamarin.Forms App (Please refer jenkinsfile in the repo)
 
+6. Upload Android APK to Nexus using Maven.
+
 ---
 
 ## Developing IOS App
@@ -52,6 +51,8 @@ This repository contains Jenkins config with the Xamarin.Forms **HelloWorld** ap
 1. Setup Xamarin build environment by installing tools/libs - .Net, Visusla Studio, Mono framework, Nuget, Xamarin profile etc.
 
 2.Build Xamarin IOS as mentioned in Jenkinsfile in the project. 
+
+3. Upload IOS IPA to Nexus.
 
 #### Note: Not implemented in realtime. 
 

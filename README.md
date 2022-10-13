@@ -63,3 +63,5 @@ This repository contains Jenkins config with the Xamarin.Forms **HelloWorld** ap
 
 **For Android build env** : https://hub.docker.com/r/tafilz/xamarin-android
 
+**For IOS setup** : https://github.com/dotnet/msbuild/issues/5963
+

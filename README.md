@@ -22,7 +22,7 @@ This repository contains Jenkins config with the Xamarin.Forms **HelloWorld** ap
 2. Jenkins
 3. Nexus
 
-### Step 1: Create a new Xamarin.Forms Android app
+### Create a new Xamarin.Forms Android app
 
 1. Pull container - tafilz/xamarin-android (which is contained mono framwork, Android Studio, Nuget)
 
@@ -46,7 +46,7 @@ This repository contains Jenkins config with the Xamarin.Forms **HelloWorld** ap
 2. Jenkins
 3. Nexus
 
-### Step 1: Create a new Xamarin.Forms app
+### Create a new Xamarin.Forms app
 
 1. Setup Xamarin build environment by installing tools/libs - .Net, Visusla Studio, Mono framework, Nuget, Xamarin profile etc.
 
